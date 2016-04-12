@@ -10,11 +10,7 @@ userid = 1, password = hr
 I have create one Director account
 userid = 2, password = michael
 
-I have create 7 HR account
+I have create 2 staffs accounts
 userid = 3, password = joe
 userid = 4, password = peter
-userid = 5, password = kei
-userid = 6, password = john
-userid = 7, password = ken
-userid = 8, password = ruby
-userid = 9, password = nicloe
+
