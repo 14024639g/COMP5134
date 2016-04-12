@@ -65,9 +65,6 @@ public class Staffs {
 	public static void StaffForDemo()
 	{
 		StaffName.add(new Staffs(1, "HR", "hr", false, true));
-		StaffName.add(new Staffs(2, "Michael", "michael", true, false));
-		StaffName.add(new Staffs(3, "Joe", "joe", false, false));
-		StaffName.add(new Staffs(4, "Peter", "peter", false, false));
 	}
 	
 	public static int CheckInt(String ID)
