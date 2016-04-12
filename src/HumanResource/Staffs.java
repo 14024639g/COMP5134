@@ -68,11 +68,6 @@ public class Staffs {
 		StaffName.add(new Staffs(2, "Michael", "michael", true, false));
 		StaffName.add(new Staffs(3, "Joe", "joe", false, false));
 		StaffName.add(new Staffs(4, "Peter", "peter", false, false));
-		StaffName.add(new Staffs(5, "Kei", "kei", false, false));
-		StaffName.add(new Staffs(6, "John", "john", false, false));
-		StaffName.add(new Staffs(7, "Ken", "ken", false, false));
-		StaffName.add(new Staffs(8, "Ruby", "ruby", false, false));
-		StaffName.add(new Staffs(9, "Nicloe", "nicloe", false, false));
 	}
 	
 	public static int CheckInt(String ID)

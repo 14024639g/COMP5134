@@ -31,7 +31,7 @@ public class DeleteStaff extends JFrame{
 	            @Override
 	            public void actionPerformed(ActionEvent e) {
 	            	Staffs.DeleteStaff(StaffComboBox.getSelectedItem().toString());
-	            	JOptionPane.showMessageDialog(DeleteStaff.this, "Deleted!");
+	            	JOptionPane.showMessageDialog(DeleteStaff.this, StaffComboBox.getSelectedItem() + " Deleted!");
             		new HR();
 	            	dispose();
 	            }
