@@ -32,7 +32,7 @@ public class DeleteStaff extends JFrame{
 	            public void actionPerformed(ActionEvent e) {
 	            	Staffs.DeleteStaff(StaffComboBox.getSelectedItem().toString());
 	            	JOptionPane.showMessageDialog(DeleteStaff.this, "Deleted!");
-            		new HomePage();
+            		new HR();
 	            	dispose();
 	            }
 	            });
